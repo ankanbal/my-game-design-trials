@@ -1,10 +1,10 @@
 # my-game-design-trials
 
-This repository contains all my game design projects that I did on my own or learned from any tutorial then applied them to 
+This repository will contain all my game design projects that I will do on my own or learn from any tutorial then apply them to 
 create a little variation of it.
 
-The zip folders contains different games that I created.
+The zip folders will contain different games that I will create.
 
-Some are Unity3D projects while some are HTML(web games) projects.
+Some will be Unity3D projects while some will be HTML(web games) projects.
 
 ...........................................GAME ON................................................
